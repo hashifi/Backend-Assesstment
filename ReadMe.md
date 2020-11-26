@@ -15,4 +15,4 @@ How to build and run the project with docker.
 
 ### Testing
 You can use Postman do the testing.
-* Import the ```RHB Backend Assestment.postman_collection.json``` into PostMan.
+* Import the ```RHB-backend-assestment.postman_collection.json``` into PostMan.
